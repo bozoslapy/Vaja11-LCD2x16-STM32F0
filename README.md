@@ -36,8 +36,5 @@ Slika mikroprocesorja -->
 
 
 
-![Slika LCD]()
-
-
-
-![Slika vezave]()
+Slika vezave -->
+![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja11-LCD2x16-STM32F0/main/IMG_20230404_090849.jpg)
