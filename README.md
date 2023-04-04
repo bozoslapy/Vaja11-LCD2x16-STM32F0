@@ -29,7 +29,15 @@ hitrost podatkov na vodilih (max. output speed) ? __LOW___
 KOMENTAR NA DELOVANJE --> Kodo nama ni uspelo zapisati do konca, zmanjkalo nama je časa. 
 Ni nama uspelo premikati besed na LCD-ju. 
 
-![Video]()
-![Slika mikroprocesorja]()
+Videa ni, zaradi nedokončane naloge.
+
+Slika mikroprocesorja --> 
+![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja11-LCD2x16-STM32F0/2d5730c1bd8d7ed6b7052ae3141032c4a9955023/pinout%2011.PNG)
+
+
+
 ![Slika LCD]()
+
+
+
 ![Slika vezave]()
